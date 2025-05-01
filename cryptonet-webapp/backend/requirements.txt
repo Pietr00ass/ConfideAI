@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+sqlalchemy
+alembic
+psycopg2-binary
+python-dotenv
+python-multipart
+cryptography
+pytesseract
+pdfplumber
+spacy
+opencv-python
+PyJWT
